@@ -4,7 +4,7 @@
 
 ModelDefteri, bir ML projesinde denediğin modelleri (Random Forest, CNN, Logistic Regression vb.) tek yerde tutmanı sağlayan bir deney günlüğüdür. Hangi modeli, hangi veri setiyle, hangi skorla denediğini ve notlarını kaydeder; sonuçları liste ve sıralama olarak gösterir.
 
-> **Canlı demo:** [BURAYA NETLIFY LİNKİNİ YAPIŞTIR](https://ornek-link.netlify.app)
+> **Canlı demo:** https://batuhan-can-softwarepersona.netlify.app
 
 ---
 
